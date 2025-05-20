@@ -1,0 +1,1 @@
+Proiect pentru practica, elaborat de Vrancean Dan si Caraus Mihai
