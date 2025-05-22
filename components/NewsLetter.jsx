@@ -7,7 +7,7 @@ const NewsLetter = () => {
         Aboneaza-te acum si primeste 20% reducere
       </h1>
       <p className="md:text-base text-gray-500/80 pb-8">
-        Aici trebuie sa fie ceva text, dar acum e ora 4, si eu nu gandesc, sorry
+       Doar primii 50 de oameni!
       </p>
       <div className="flex items-center justify-between max-w-2xl w-full md:h-14 h-12">
         <input
